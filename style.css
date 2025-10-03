@@ -1,0 +1,36 @@
+    body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .mulClass{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: 2px 2px 2px rgb(224, 220, 220);
+    border-radius: 1rem;
+    width:40%;
+    padding: 2%;
+    min-height: fit-content;
+    }
+    #generateBtn{
+    background-color: rgb(77,176,80);
+    color: rgb(255,255,255);
+    padding: 1%;
+    }
+    input{
+    margin-bottom: 2%;
+    padding: 1%;
+    }
+    label{
+    font-weight: bold;
+    }
+    #table{
+    display: flex;
+    flex-direction: column;
+    }
+    #errormessage{
+    color:red;
+    opacity:0;
+    text-align: center;
+    }
