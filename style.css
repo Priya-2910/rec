@@ -1,0 +1,34 @@
+    .main-cont{
+    width:50%;
+    background-color: whitesmoke;
+    border:2px solid white;
+    border-radius: 1rem;
+    margin-left: 30%;
+    }
+    form{
+    display: flex;
+    margin-left:36%;
+    justify-content: center;
+    flex-direction: column;
+    }
+    .btnDiv{
+    display: flex;
+    align-items: center;
+    }
+    #mark-progress{
+    background-color: rgb(41,168,71);
+    margin-right: 2%;
+    }
+    #reset-progress{
+    background-color: red;
+    }
+    button{
+    margin-top: 2%;
+    color:white;
+    padding: 2%;
+    }
+    p{
+    margin-left: 34%;
+    }
+    .formdiv{
+    margin-bottom: 1%;}
